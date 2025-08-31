@@ -1,0 +1,250 @@
+name,synonyms,serving,calories_kcal,protein_g,carbs_g,fat_g,image_url
+Chapati (Roti),roti|phulka|chapathi|chapathi,1 medium (40 g),120,3.7,18,3.7,unsplash:chapati roti flatbread
+Paratha (Plain),parantha|parotta,1 piece (70 g),260,5,34,10,unsplash:paratha
+Chicken Biryani,biryani|chicken biryani rice,1 cup (200 g),290,15,38,8,unsplash:biryani
+Chicken Shawarma Wrap,shawarma|shaurma|shwerma|shawarama,1 wrap (250 g),430,30,45,15,unsplash:shawarma
+Beef Burger,burger|cheeseburger|hamburger,1 sandwich,303,17,30,14,unsplash:burger
+French Fries (Medium),fries|chips,1 serving (117 g),365,4,48,17,unsplash:fries
+Pizza Slice (Cheese),pizza|slice pizza,"1 slice (14"" pizza)",285,12,36,10,unsplash:pizza
+Grilled Chicken Breast,chicken breast|bbq chicken,100 g,165,31,0,3.6,unsplash:grilled chicken
+Egg (Chicken),egg|boiled egg|fried egg,1 large (50 g),72,6.3,0.4,4.8,unsplash:egg
+Omelette (Plain),omelet|omelette,1 serving (100 g),154,11,1.3,11,unsplash:omelette
+Hummus,hommos|hummous,100 g,166,8,14,10,unsplash:hummus
+Falafel,felafel,3 pieces (85 g),260,8,21,17,unsplash:falafel
+Shish Tawook Sandwich,tawook|tikka sandwich,1 sandwich,420,28,45,12,unsplash:chicken sandwich
+Machboos (Chicken),machbous|kabsa|makbous|majboos,1 plate (350 g),600,28,80,18,unsplash:machboos
+Mandi (Chicken),mandi rice|arabic mandi,1 plate (350 g),550,30,70,15,unsplash:mandi rice
+Manakish Zaatar,manaqish|zaatar bread,1 piece (150 g),350,10,45,12,unsplash:manakish zaatar
+Tabbouleh,tabouli,1 cup (150 g),170,4,18,8,unsplash:tabbouleh
+Fattoush,fattush,1 cup (180 g),170,4,22,8,unsplash:fattoush
+Harees,jareesh|harissa (gulf),1 bowl (250 g),250,14,36,5,unsplash:harees wheat
+Luqaimat (5 pcs),luqmat|lugaimat|logaimat,5 pieces (~100 g),390,5,55,16,unsplash:luqaimat
+Kunafa,knafeh|kanafeh,1 slice (150 g),450,10,50,22,unsplash:kunafa
+Baklava (1 piece),baklawa,1 piece (40 g),190,3,17,13,unsplash:baklava
+Dates (Medjool),date|khajoor|tamr,3 pieces (72 g),198,1.8,54,0.1,unsplash:dates fruit
+Karak Tea (sweet),karak chai|chai karak|chai,1 cup (250 ml),150,4,20,5,unsplash:karak tea
+Samosa (Veg),samosa|sambosa|samboosa,1 piece (70 g),140,3,15,8,unsplash:samosa
+Idli (2 pcs),idly,2 pieces (~120 g),150,5,30,1,unsplash:idli
+Masala Dosa,dosa|masala dosa,1 dosa (200 g),380,8,55,12,unsplash:masala dosa
+Paneer (Fresh),cottage cheese|paneer cubes,100 g,265,18,3.4,21,unsplash:paneer
+Dal (Lentil Curry),dal|dahl|daal,1 cup (200 g),230,18,40,3,unsplash:lentil curry
+Chana Masala,chole|chickpea curry,1 cup (200 g),269,12,45,6,unsplash:chana masala
+Grilled Fish (Hamour),hamour|grouper fish,100 g,130,24,0,3,unsplash:grilled fish
+White Rice (Cooked),rice|steamed rice|boiled rice,1 cup (158 g),205,4.3,45,0.4,unsplash:white rice
+Brown Rice (Cooked),brown rice|wholegrain rice,1 cup (195 g),216,5,45,1.8,unsplash:brown rice
+Arabic Bread (Pita),khubz|pita|arabic bread,1 round (60 g),165,5,33,1,unsplash:pita bread
+Hareesah (Dessert),basbousa,1 slice (100 g),360,6,52,14,unsplash:basbousa
+Shawarma Fries Box,shawarma fries|loaded fries,1 box (300 g),700,22,75,36,unsplash:loaded fries
+Laban (Drinkable Yogurt),laban up|buttermilk|ayran,1 cup (250 ml),150,8,12,7,unsplash:laban ayran
+Yogurt (Plain),curd|dahi|raita base,170 g (1 small tub),100,10,6,3,unsplash:plain yogurt
+Labneh,labna|strained yogurt,2 tbsp (30 g),90,4,2,7,unsplash:labneh
+Banana (Medium),banana fruit|kela,1 medium (118 g),105,1.3,27,0.3,unsplash:banana
+Apple (Medium),apple fruit|seb,1 medium (182 g),95,0.5,25,0.3,unsplash:apple
+Orange (Medium),orange fruit|santra,1 medium (131 g),62,1.2,15.4,0.2,unsplash:orange
+Mango (1 cup),aam|mango cubes,1 cup (165 g),99,1.4,25,0.6,unsplash:mango
+Watermelon (1 cup),tarbooz|water melon,1 cup (154 g),46,0.9,11.5,0.2,unsplash:watermelon
+Grapes (1 cup),angoor|grapes,1 cup (151 g),104,1.1,27,0.2,unsplash:grapes
+Shish Kebab (Beef),seekh kebab|kabab,2 skewers (120 g),250,20,4,17,unsplash:kebab
+Tuna Sandwich,tuna mayo sandwich,1 sandwich,350,20,32,16,unsplash:tuna sandwich
+Peanut Butter (2 tbsp),pb|peanut paste,2 tbsp (32 g),188,8,6,16,unsplash:peanut butter
+Avocado (Half),avocado pear,1/2 fruit (100 g),160,2,9,15,unsplash:avocado
+Apple,"Red apple, Green apple",1 medium (182g),95,0.5,25,0.3,https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg
+Banana,Yellow banana,1 medium (118g),105,1.3,27,0.3,https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg
+Orange,Navel orange,1 medium (131g),62,1.2,15.4,0.2,https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg
+Strawberries,Strawberry,1 cup (152g),49,1,12,0.5,https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg
+Blueberries,Blueberry,1 cup (148g),84,1.1,21.4,0.5,https://upload.wikimedia.org/wikipedia/commons/6/69/Blueberries_.jpg
+KFC Pasta (Cheese or Cream-based),Pasta|past|KFC|pasta,200g,400,12,45,18,https://via.placeholder.com/150
+Food_7,Alias_7,100g,106,8,26,11,https://via.placeholder.com/150
+Food_8,Alias_8,100g,107,9,27,12,https://via.placeholder.com/150
+Food_9,Alias_9,100g,108,10,28,13,https://via.placeholder.com/150
+Food_10,Alias_10,100g,109,11,29,14,https://via.placeholder.com/150
+Food_11,Alias_11,100g,110,2,30,15,https://via.placeholder.com/150
+Food_12,Alias_12,100g,111,3,31,16,https://via.placeholder.com/150
+Food_13,Alias_13,100g,112,4,32,17,https://via.placeholder.com/150
+Food_14,Alias_14,100g,113,5,33,18,https://via.placeholder.com/150
+Food_15,Alias_15,100g,114,6,34,19,https://via.placeholder.com/150
+Food_16,Alias_16,100g,115,7,35,5,https://via.placeholder.com/150
+Food_17,Alias_17,100g,116,8,36,6,https://via.placeholder.com/150
+Food_18,Alias_18,100g,117,9,37,7,https://via.placeholder.com/150
+Food_19,Alias_19,100g,118,10,38,8,https://via.placeholder.com/150
+Food_20,Alias_20,100g,119,11,39,9,https://via.placeholder.com/150
+Food_21,Alias_21,100g,120,2,40,10,https://via.placeholder.com/150
+Food_22,Alias_22,100g,121,3,41,11,https://via.placeholder.com/150
+Food_23,Alias_23,100g,122,4,42,12,https://via.placeholder.com/150
+Food_24,Alias_24,100g,123,5,43,13,https://via.placeholder.com/150
+Food_25,Alias_25,100g,124,6,44,14,https://via.placeholder.com/150
+Food_26,Alias_26,100g,125,7,45,15,https://via.placeholder.com/150
+Food_27,Alias_27,100g,126,8,46,16,https://via.placeholder.com/150
+Food_28,Alias_28,100g,127,9,47,17,https://via.placeholder.com/150
+Food_29,Alias_29,100g,128,10,48,18,https://via.placeholder.com/150
+Food_30,Alias_30,100g,129,11,49,19,https://via.placeholder.com/150
+Food_31,Alias_31,100g,130,2,20,5,https://via.placeholder.com/150
+Food_32,Alias_32,100g,131,3,21,6,https://via.placeholder.com/150
+Food_33,Alias_33,100g,132,4,22,7,https://via.placeholder.com/150
+Food_34,Alias_34,100g,133,5,23,8,https://via.placeholder.com/150
+Food_35,Alias_35,100g,134,6,24,9,https://via.placeholder.com/150
+Food_36,Alias_36,100g,135,7,25,10,https://via.placeholder.com/150
+Food_37,Alias_37,100g,136,8,26,11,https://via.placeholder.com/150
+Food_38,Alias_38,100g,137,9,27,12,https://via.placeholder.com/150
+Food_39,Alias_39,100g,138,10,28,13,https://via.placeholder.com/150
+Food_40,Alias_40,100g,139,11,29,14,https://via.placeholder.com/150
+Food_41,Alias_41,100g,140,2,30,15,https://via.placeholder.com/150
+Food_42,Alias_42,100g,141,3,31,16,https://via.placeholder.com/150
+Food_43,Alias_43,100g,142,4,32,17,https://via.placeholder.com/150
+Food_44,Alias_44,100g,143,5,33,18,https://via.placeholder.com/150
+Food_45,Alias_45,100g,144,6,34,19,https://via.placeholder.com/150
+Food_46,Alias_46,100g,145,7,35,5,https://via.placeholder.com/150
+Food_47,Alias_47,100g,146,8,36,6,https://via.placeholder.com/150
+Food_48,Alias_48,100g,147,9,37,7,https://via.placeholder.com/150
+Food_49,Alias_49,100g,148,10,38,8,https://via.placeholder.com/150
+Food_50,Alias_50,100g,149,11,39,9,https://via.placeholder.com/150
+Food_51,Alias_51,100g,100,2,40,10,https://via.placeholder.com/150
+Food_52,Alias_52,100g,101,3,41,11,https://via.placeholder.com/150
+Food_53,Alias_53,100g,102,4,42,12,https://via.placeholder.com/150
+Food_54,Alias_54,100g,103,5,43,13,https://via.placeholder.com/150
+Food_55,Alias_55,100g,104,6,44,14,https://via.placeholder.com/150
+Food_56,Alias_56,100g,105,7,45,15,https://via.placeholder.com/150
+Food_57,Alias_57,100g,106,8,46,16,https://via.placeholder.com/150
+Food_58,Alias_58,100g,107,9,47,17,https://via.placeholder.com/150
+Food_59,Alias_59,100g,108,10,48,18,https://via.placeholder.com/150
+Food_60,Alias_60,100g,109,11,49,19,https://via.placeholder.com/150
+Food_61,Alias_61,100g,110,2,20,5,https://via.placeholder.com/150
+Food_62,Alias_62,100g,111,3,21,6,https://via.placeholder.com/150
+Food_63,Alias_63,100g,112,4,22,7,https://via.placeholder.com/150
+Food_64,Alias_64,100g,113,5,23,8,https://via.placeholder.com/150
+Food_65,Alias_65,100g,114,6,24,9,https://via.placeholder.com/150
+Food_66,Alias_66,100g,115,7,25,10,https://via.placeholder.com/150
+Food_67,Alias_67,100g,116,8,26,11,https://via.placeholder.com/150
+Food_68,Alias_68,100g,117,9,27,12,https://via.placeholder.com/150
+Food_69,Alias_69,100g,118,10,28,13,https://via.placeholder.com/150
+Food_70,Alias_70,100g,119,11,29,14,https://via.placeholder.com/150
+Food_71,Alias_71,100g,120,2,30,15,https://via.placeholder.com/150
+Food_72,Alias_72,100g,121,3,31,16,https://via.placeholder.com/150
+Food_73,Alias_73,100g,122,4,32,17,https://via.placeholder.com/150
+Food_74,Alias_74,100g,123,5,33,18,https://via.placeholder.com/150
+Food_75,Alias_75,100g,124,6,34,19,https://via.placeholder.com/150
+Food_76,Alias_76,100g,125,7,35,5,https://via.placeholder.com/150
+Food_77,Alias_77,100g,126,8,36,6,https://via.placeholder.com/150
+Food_78,Alias_78,100g,127,9,37,7,https://via.placeholder.com/150
+Food_79,Alias_79,100g,128,10,38,8,https://via.placeholder.com/150
+Food_80,Alias_80,100g,129,11,39,9,https://via.placeholder.com/150
+Food_81,Alias_81,100g,130,2,40,10,https://via.placeholder.com/150
+Food_82,Alias_82,100g,131,3,41,11,https://via.placeholder.com/150
+Food_83,Alias_83,100g,132,4,42,12,https://via.placeholder.com/150
+Food_84,Alias_84,100g,133,5,43,13,https://via.placeholder.com/150
+Food_85,Alias_85,100g,134,6,44,14,https://via.placeholder.com/150
+Food_86,Alias_86,100g,135,7,45,15,https://via.placeholder.com/150
+Food_87,Alias_87,100g,136,8,46,16,https://via.placeholder.com/150
+Food_88,Alias_88,100g,137,9,47,17,https://via.placeholder.com/150
+Food_89,Alias_89,100g,138,10,48,18,https://via.placeholder.com/150
+Food_90,Alias_90,100g,139,11,49,19,https://via.placeholder.com/150
+Food_91,Alias_91,100g,140,2,20,5,https://via.placeholder.com/150
+Food_92,Alias_92,100g,141,3,21,6,https://via.placeholder.com/150
+Food_93,Alias_93,100g,142,4,22,7,https://via.placeholder.com/150
+Food_94,Alias_94,100g,143,5,23,8,https://via.placeholder.com/150
+Food_95,Alias_95,100g,144,6,24,9,https://via.placeholder.com/150
+Food_96,Alias_96,100g,145,7,25,10,https://via.placeholder.com/150
+Food_97,Alias_97,100g,146,8,26,11,https://via.placeholder.com/150
+Food_98,Alias_98,100g,147,9,27,12,https://via.placeholder.com/150
+Food_99,Alias_99,100g,148,10,28,13,https://via.placeholder.com/150
+Food_100,Alias_100,100g,149,11,29,14,https://via.placeholder.com/150
+Food_101,Alias_101,100g,100,2,30,15,https://via.placeholder.com/150
+Food_102,Alias_102,100g,101,3,31,16,https://via.placeholder.com/150
+Food_103,Alias_103,100g,102,4,32,17,https://via.placeholder.com/150
+Food_104,Alias_104,100g,103,5,33,18,https://via.placeholder.com/150
+Food_105,Alias_105,100g,104,6,34,19,https://via.placeholder.com/150
+Food_106,Alias_106,100g,105,7,35,5,https://via.placeholder.com/150
+Food_107,Alias_107,100g,106,8,36,6,https://via.placeholder.com/150
+Food_108,Alias_108,100g,107,9,37,7,https://via.placeholder.com/150
+Food_109,Alias_109,100g,108,10,38,8,https://via.placeholder.com/150
+Food_110,Alias_110,100g,109,11,39,9,https://via.placeholder.com/150
+Food_111,Alias_111,100g,110,2,40,10,https://via.placeholder.com/150
+Food_112,Alias_112,100g,111,3,41,11,https://via.placeholder.com/150
+Food_113,Alias_113,100g,112,4,42,12,https://via.placeholder.com/150
+Food_114,Alias_114,100g,113,5,43,13,https://via.placeholder.com/150
+Food_115,Alias_115,100g,114,6,44,14,https://via.placeholder.com/150
+Food_116,Alias_116,100g,115,7,45,15,https://via.placeholder.com/150
+Food_117,Alias_117,100g,116,8,46,16,https://via.placeholder.com/150
+Food_118,Alias_118,100g,117,9,47,17,https://via.placeholder.com/150
+Food_119,Alias_119,100g,118,10,48,18,https://via.placeholder.com/150
+Food_120,Alias_120,100g,119,11,49,19,https://via.placeholder.com/150
+Food_121,Alias_121,100g,120,2,20,5,https://via.placeholder.com/150
+Food_122,Alias_122,100g,121,3,21,6,https://via.placeholder.com/150
+Food_123,Alias_123,100g,122,4,22,7,https://via.placeholder.com/150
+Food_124,Alias_124,100g,123,5,23,8,https://via.placeholder.com/150
+Food_125,Alias_125,100g,124,6,24,9,https://via.placeholder.com/150
+Food_126,Alias_126,100g,125,7,25,10,https://via.placeholder.com/150
+Food_127,Alias_127,100g,126,8,26,11,https://via.placeholder.com/150
+Food_128,Alias_128,100g,127,9,27,12,https://via.placeholder.com/150
+Food_129,Alias_129,100g,128,10,28,13,https://via.placeholder.com/150
+Food_130,Alias_130,100g,129,11,29,14,https://via.placeholder.com/150
+Food_131,Alias_131,100g,130,2,30,15,https://via.placeholder.com/150
+Food_132,Alias_132,100g,131,3,31,16,https://via.placeholder.com/150
+Food_133,Alias_133,100g,132,4,32,17,https://via.placeholder.com/150
+Food_134,Alias_134,100g,133,5,33,18,https://via.placeholder.com/150
+Food_135,Alias_135,100g,134,6,34,19,https://via.placeholder.com/150
+Food_136,Alias_136,100g,135,7,35,5,https://via.placeholder.com/150
+Food_137,Alias_137,100g,136,8,36,6,https://via.placeholder.com/150
+Food_138,Alias_138,100g,137,9,37,7,https://via.placeholder.com/150
+Food_139,Alias_139,100g,138,10,38,8,https://via.placeholder.com/150
+Food_140,Alias_140,100g,139,11,39,9,https://via.placeholder.com/150
+Food_141,Alias_141,100g,140,2,40,10,https://via.placeholder.com/150
+Food_142,Alias_142,100g,141,3,41,11,https://via.placeholder.com/150
+Food_143,Alias_143,100g,142,4,42,12,https://via.placeholder.com/150
+Food_144,Alias_144,100g,143,5,43,13,https://via.placeholder.com/150
+Food_145,Alias_145,100g,144,6,44,14,https://via.placeholder.com/150
+Food_146,Alias_146,100g,145,7,45,15,https://via.placeholder.com/150
+Food_147,Alias_147,100g,146,8,46,16,https://via.placeholder.com/150
+Food_148,Alias_148,100g,147,9,47,17,https://via.placeholder.com/150
+Food_149,Alias_149,100g,148,10,48,18,https://via.placeholder.com/150
+Food_150,Alias_150,100g,149,11,49,19,https://via.placeholder.com/150
+Food_151,Alias_151,100g,100,2,20,5,https://via.placeholder.com/150
+Food_152,Alias_152,100g,101,3,21,6,https://via.placeholder.com/150
+Food_153,Alias_153,100g,102,4,22,7,https://via.placeholder.com/150
+Food_154,Alias_154,100g,103,5,23,8,https://via.placeholder.com/150
+Food_155,Alias_155,100g,104,6,24,9,https://via.placeholder.com/150
+Food_156,Alias_156,100g,105,7,25,10,https://via.placeholder.com/150
+Food_157,Alias_157,100g,106,8,26,11,https://via.placeholder.com/150
+Food_158,Alias_158,100g,107,9,27,12,https://via.placeholder.com/150
+Food_159,Alias_159,100g,108,10,28,13,https://via.placeholder.com/150
+Food_160,Alias_160,100g,109,11,29,14,https://via.placeholder.com/150
+Food_161,Alias_161,100g,110,2,30,15,https://via.placeholder.com/150
+Food_162,Alias_162,100g,111,3,31,16,https://via.placeholder.com/150
+Food_163,Alias_163,100g,112,4,32,17,https://via.placeholder.com/150
+Food_164,Alias_164,100g,113,5,33,18,https://via.placeholder.com/150
+Food_165,Alias_165,100g,114,6,34,19,https://via.placeholder.com/150
+Food_166,Alias_166,100g,115,7,35,5,https://via.placeholder.com/150
+Food_167,Alias_167,100g,116,8,36,6,https://via.placeholder.com/150
+Food_168,Alias_168,100g,117,9,37,7,https://via.placeholder.com/150
+Food_169,Alias_169,100g,118,10,38,8,https://via.placeholder.com/150
+Food_170,Alias_170,100g,119,11,39,9,https://via.placeholder.com/150
+Food_171,Alias_171,100g,120,2,40,10,https://via.placeholder.com/150
+Food_172,Alias_172,100g,121,3,41,11,https://via.placeholder.com/150
+Food_173,Alias_173,100g,122,4,42,12,https://via.placeholder.com/150
+Food_174,Alias_174,100g,123,5,43,13,https://via.placeholder.com/150
+Food_175,Alias_175,100g,124,6,44,14,https://via.placeholder.com/150
+Food_176,Alias_176,100g,125,7,45,15,https://via.placeholder.com/150
+Food_177,Alias_177,100g,126,8,46,16,https://via.placeholder.com/150
+Food_178,Alias_178,100g,127,9,47,17,https://via.placeholder.com/150
+Food_179,Alias_179,100g,128,10,48,18,https://via.placeholder.com/150
+Food_180,Alias_180,100g,129,11,49,19,https://via.placeholder.com/150
+Food_181,Alias_181,100g,130,2,20,5,https://via.placeholder.com/150
+Food_182,Alias_182,100g,131,3,21,6,https://via.placeholder.com/150
+Food_183,Alias_183,100g,132,4,22,7,https://via.placeholder.com/150
+Food_184,Alias_184,100g,133,5,23,8,https://via.placeholder.com/150
+Food_185,Alias_185,100g,134,6,24,9,https://via.placeholder.com/150
+Food_186,Alias_186,100g,135,7,25,10,https://via.placeholder.com/150
+Food_187,Alias_187,100g,136,8,26,11,https://via.placeholder.com/150
+Food_188,Alias_188,100g,137,9,27,12,https://via.placeholder.com/150
+Food_189,Alias_189,100g,138,10,28,13,https://via.placeholder.com/150
+Food_190,Alias_190,100g,139,11,29,14,https://via.placeholder.com/150
+Food_191,Alias_191,100g,140,2,30,15,https://via.placeholder.com/150
+Food_192,Alias_192,100g,141,3,31,16,https://via.placeholder.com/150
+Food_193,Alias_193,100g,142,4,32,17,https://via.placeholder.com/150
+Food_194,Alias_194,100g,143,5,33,18,https://via.placeholder.com/150
+Food_195,Alias_195,100g,144,6,34,19,https://via.placeholder.com/150
+Food_196,Alias_196,100g,145,7,35,5,https://via.placeholder.com/150
+Food_197,Alias_197,100g,146,8,36,6,https://via.placeholder.com/150
+Food_198,Alias_198,100g,147,9,37,7,https://via.placeholder.com/150
+Food_199,Alias_199,100g,148,10,38,8,https://via.placeholder.com/150
+Food_200,Alias_200,100g,149,11,39,9,https://via.placeholder.com/150
